@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRzx+p4esGwvbozx6elFxIOQ3EYGAKbNrKHaR/Q8csFiAs1cUbh5ZShUT9edD8yq+1XPEFnrMd2r8JCQboDcAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musab\\Documents\\GitHub\\WindowsFormApps\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musab\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\musab\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\musab\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
